@@ -15,7 +15,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Paardekooper System Status Overview
-  introTitle: "**Paardekooper** key systems status overview"
+  introTitle: "**SYSTEM STATUS OVERVIEW**"
   introMessage: This page shows the status of Paardekooper key systems.
   #navbar:
   #  - title: Status
