@@ -19,8 +19,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Paardekooper System Status Overview
-  introTitle: "**Upptime**"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Paardekooper** key systems status overview"
+  introMessage: This page shows the status of Paardekooper key systems.
   #navbar:
   #  - title: Status
   #    href: /
