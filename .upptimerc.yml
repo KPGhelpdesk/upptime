@@ -17,6 +17,7 @@ status-website:
   name: Paardekooper System Status Overview
   introTitle: "**SYSTEM STATUS OVERVIEW**"
   introMessage: This page shows the status of Paardekooper key systems.
+  themeUrl: https://status.pdkg.org/custom-theme.css
   #navbar:
   #  - title: Status
   #    href: /
