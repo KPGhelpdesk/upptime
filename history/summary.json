@@ -28,7 +28,7 @@
     "url": "https://www.paardekooper.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.paardekooper.nl.ico",
     "slug": "paardekooper-webshop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -40,6 +40,7 @@
     "timeMonth": 1552,
     "timeYear": 1654,
     "dailyMinutesDown": {
+      "2023-05-07": 0,
       "2023-03-19": 226,
       "2023-03-17": 55,
       "2023-03-16": 20,
