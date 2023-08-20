@@ -1,7 +1,7 @@
 url: https://pdkg.topdesk.net
-status: up
-code: 200
-responseTime: 546
-lastUpdated: 2023-08-19T23:03:10.076Z
+status: down
+code: 502
+responseTime: 651
+lastUpdated: 2023-08-20T01:48:35.772Z
 startTime: 2022-11-23T14:21:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
