@@ -11,10 +11,10 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.91%",
     "time": 789,
-    "timeDay": 483,
-    "timeWeek": 609,
-    "timeMonth": 864,
-    "timeYear": 792,
+    "timeDay": 780,
+    "timeWeek": 656,
+    "timeMonth": 870,
+    "timeYear": 791,
     "dailyMinutesDown": {
       "2023-11-19": 52,
       "2023-10-30": 32,
@@ -37,17 +37,16 @@
     "slug": "paardekooper-webshop",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.50%",
-    "time": 1908,
-    "timeDay": 3338,
-    "timeWeek": 1902,
+    "time": 1907,
+    "timeDay": 3471,
+    "timeWeek": 1910,
     "timeMonth": 2049,
     "timeYear": 1918,
     "dailyMinutesDown": {
-      "2023-11-27": 8,
       "2023-10-11": 15,
       "2023-08-26": 25,
       "2023-08-01": 381,
@@ -66,8 +65,7 @@
       "2023-03-06": 89,
       "2023-01-25": 76,
       "2022-12-11": 405,
-      "2022-12-10": 436,
-      "2022-11-28": 73
+      "2022-12-10": 436
     }
   }
 ]
