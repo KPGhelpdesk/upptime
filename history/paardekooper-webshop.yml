@@ -1,7 +1,7 @@
 url: https://www.paardekooper.nl
-status: up
-code: 200
-responseTime: 1320
-lastUpdated: 2023-12-05T16:36:44.890Z
+status: down
+code: 500
+responseTime: 716
+lastUpdated: 2023-12-05T18:08:33.397Z
 startTime: 2022-11-23T14:12:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
