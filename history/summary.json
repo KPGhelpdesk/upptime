@@ -4,7 +4,7 @@
     "url": "https://pdkg.topdesk.net",
     "icon": "https://icons.duckduckgo.com/ip3/pdkg.topdesk.net.ico",
     "slug": "paardekooper-servicedesk-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 614,
     "timeYear": 783,
     "dailyMinutesDown": {
+      "2024-01-21": 0,
       "2024-01-12": 15,
       "2023-12-17": 39,
       "2023-12-12": 16,
